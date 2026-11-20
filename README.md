@@ -1,5 +1,7 @@
 # Chatbot — Version 3.0.0
 
+[![Local AI Assistant: the 20-second video (click to play)](assets/brag.jpg)](assets/brag.mp4)
+
 A modular chatbot framework for local LLM/VLM inference, featuring RAG over uploaded documents, speech-to-text input, multimodal support, and a clean Streamlit UI backed by a FastAPI server.
 
 ---
